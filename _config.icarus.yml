@@ -229,24 +229,24 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: TransistorCat
         # Author title
         author_title: Your title
         # Author's current location
-        location: Your location
+        location: China
         # URL or path to the avatar image
-        avatar: 
+        avatar: https://avatars.githubusercontent.com/u/101713877?v=4
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/ppoffice
+        follow_link: https://github.com/TransistorCat
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
+                url: https://github.com/TransistorCat
             Facebook:
                 icon: fab fa-facebook
                 url: https://facebook.com
